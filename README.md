@@ -1,5 +1,14 @@
 # Getting Started with Create React App
 
+
+Morphy 
+Matricula:2020-9904
+
+![github-small](https://github.com/Morphi007/ProyectoFinal-Phoram/blob/main/post.png)
+![github-small](https://github.com/Morphi007/ProyectoFinal-Phoram/blob/main/login.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -70,11 +79,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-Morphy 
-Matricula:2020-9904
 
-![github-small](https://github.com/Morphi007/ProyectoFinal-Phoram/blob/main/post.png)
-![github-small](https://github.com/Morphi007/ProyectoFinal-Phoram/blob/main/login.png)
 
 
 
